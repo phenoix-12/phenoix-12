@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github & other social media 
 - 📫 How to reach me phenoix-12
 - 😄 Pronouns: She/Her
-- 💻 Language: HTML
+- 💻 Language: HTML; C; Python
 - 📱 Software: Github; Notepad; Visual Studio
 - 📲 System: Android; Window
 - 💾 Hardware: Vivo V2029; Lenova Siml Home language
