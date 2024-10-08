@@ -1,7 +1,11 @@
 👋 Hii
+
 👀 I’m interested in coding 
+
 🌱 I’m currently learning B.Sc. Computer Science 
+
 💞️ I’m looking to collaborate on Github & other social media 
+
 😄 Pronouns: She/Her
 
 
