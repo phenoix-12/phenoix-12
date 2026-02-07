@@ -55,7 +55,7 @@ A **prototype web application** developed as part of my Computer Science academi
 
 ## 📫 Connect With Me  
 
-- GitHub: https://github.com/Phenoix  
+- GitHub: https://github.com/hardi-koli  
 
 ---
 
