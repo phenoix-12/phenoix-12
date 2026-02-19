@@ -55,8 +55,8 @@ A **prototype web application** developed as part of my Computer Science academi
 
 ## 📫 Connect With Me  
 
-- GitHub: https://github.com/hardi-koli  
-
+- GitHub: https://github.com/hardi-koli
+- LinkedIn: https://www.linkedin.com/in/hardi-koli-99b875267
 ---
 
 ⭐ Learning fundamentals, building projects, and improving step by step
