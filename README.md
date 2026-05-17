@@ -1,62 +1,57 @@
 # 👋 Hi, I'm Hardi Koli  
 
-🎓 Computer Science Student  
+🎓 Final Year B.Sc. Computer Science Student  
 💻 Beginner Web Developer  
 
 ---
 
 ## 🧠 About Me  
 
-- 🔭 Currently working on an academic project: **Digital Notice Board Management System**
-- 🌱 Learning **Python, Flask, HTML, CSS**
-- 🎯 Focused on understanding core concepts through practice
-- 📚 Building projects as part of my Computer Science curriculum
+- Completed final semester of B.Sc. Computer Science (result awaited)
+- Currently learning programming and web development fundamentals
+- Interested in backend development using Python
+- Building small projects to improve practical coding skills
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Currently Learning  
 
-**Languages**
-- Python  
-- C (Basics)
-
-**Web Development**
-- HTML  
-- CSS  
-- Flask  
-
-**Tools**
-- GitHub  
-- VS Code  
-- Linux (basic commands)
+- Python (Beginner)
+- HTML
+- CSS
+- Flask (Basic understanding)
 
 ---
 
 ## 📌 Academic Project  
 
-### 📢 Digital Notice Board Management System  
+### Digital Notice Board Management System  
 
-A **prototype web application** developed as part of my Computer Science academic project.
+A prototype web application created as part of my final year Computer Science academic project.
 
-**Implemented Features:**
-- Admin login interface  
-- Admin dashboard UI  
-- Add and display notices  
-- Student notice viewing page  
+Features implemented:
+- Admin login interface
+- Admin dashboard UI
+- Add and display notices
+- Student notice viewing page
 
-**Current Scope:**
-- Frontend and basic backend logic implemented  
-- Database integration (MySQL) planned as a future enhancement  
+Technologies used:
+Python, Flask, HTML, CSS
 
-**Technologies Used:**  
-`Python` `Flask` `HTML` `CSS`
+---
+
+## 🚧 Currently Working On  
+
+- Learning programming fundamentals
+- Building a personal portfolio website
 
 ---
 
 ## 📫 Connect With Me  
 
-- GitHub: https://github.com/hardi-koli
-- LinkedIn: https://www.linkedin.com/in/hardi-koli-99b875267
+GitHub: https://github.com/hardi-koli  
+LinkedIn: https://www.linkedin.com/in/hardi-koli-99b875267  
+
 ---
 
-⭐ Learning fundamentals, building projects, and improving step by step
+⭐ Learning programming step by step and building projects
