@@ -15,6 +15,8 @@ LinkedIn: linkedin.com/in/hardi-koli-99b875267
 
 GitHub: github.com/hardi-koli
 
+Instagram: instagram.com/koli_queen_1294
+
 Open to networking and learning opportunities.
 
 ---
