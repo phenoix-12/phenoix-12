@@ -1,57 +1,23 @@
-# 👋 Hi, I'm Hardi Koli  
-
-🎓 Final Year B.Sc. Computer Science Student  
-💻 Beginner Web Developer  
+# 👋 Hi, I'm Hardi Koli
+I am a Computer Science graduate and an aspiring web developer. I am currently dedicated to sharpening my technical skills and building a personal digital presence.
 
 ---
 
-## 🧠 About Me  
+## 🛠️ Currently Focusing On
+Web Development Foundations: Learning the essential building blocks of the web.
 
-- Completed final semester of B.Sc. Computer Science (result awaited)
-- Currently learning programming and web development fundamentals
-- Interested in backend development using Python
-- Building small projects to improve practical coding skills
+Skill Growth: Transitioning from academic coursework to practical, independent development.
 
 ---
 
-## 🛠️ Currently Learning  
+## 📫 Let's Connect
+LinkedIn: linkedin.com/in/hardi-koli-99b875267
 
-- Python (Beginner)
-- HTML
-- CSS
-- Flask (Basic understanding)
+GitHub: github.com/hardi-koli
 
----
-
-## 📌 Academic Project  
-
-### Digital Notice Board Management System  
-
-A prototype web application created as part of my final year Computer Science academic project.
-
-Features implemented:
-- Admin login interface
-- Admin dashboard UI
-- Add and display notices
-- Student notice viewing page
-
-Technologies used:
-Python, Flask, HTML, CSS
+Open to networking and learning opportunities.
 
 ---
 
-## 🚧 Currently Working On  
+![Hardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardi-koli&show_icons=true&theme=dark)
 
-- Learning programming fundamentals
-- Building a personal portfolio website
-
----
-
-## 📫 Connect With Me  
-
-GitHub: https://github.com/hardi-koli  
-LinkedIn: https://www.linkedin.com/in/hardi-koli-99b875267  
-
----
-
-⭐ Learning programming step by step and building projects
