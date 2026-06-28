@@ -11,11 +11,11 @@ Skill Growth: Transitioning from academic coursework to practical, independent d
 ---
 
 ## 📫 Let's Connect
-LinkedIn: linkedin.com/in/hardi-koli-99b875267
+LinkedIn: [linkedin.com/in/hardi-koli-99b875267](https://www.linkedin.com/in/hardi-koli-99b875267)
 
-GitHub: github.com/hardi-koli
+Instagram: [instagram.com/koli_queen_1294](https://www.instagram.com/koli_queen_1294)
 
-Instagram: instagram.com/koli_queen_1294
+GitHub: [github.com/hardi-koli](https://github.com/hardi-koli)
 
 Open to networking and learning opportunities.
 
